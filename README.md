@@ -4,7 +4,7 @@ Hello There!
 
 - 👀 I’m interested in building projects with Javascript
 
-- 🌱 I’m currently building skills in getting used to VIM and Neovim as my IDE.   
+- 🌱 I’m currently building skills in getting used to Neovim and Tmux as my IDE. Also learning Linux and bash scripting
 
 - 💞️ I have a degree in Computer Engineer and have been in the industry for 5 years. My hobbies are dancing, playing video games and   photography/video editing.
 
