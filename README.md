@@ -1,2 +1,2 @@
-#📫 You can reach me at avptechgesulga@gmail.com.
+📫 You can reach me at avptechgesulga@gmail.com.
 
