@@ -1,4 +1,4 @@
-📫 avptechgesulga@gmail.com  
-📫 avpgesulga@gmail.com  
+📫 contact me on avptechgesulga@gmail.com  
+
 
 
