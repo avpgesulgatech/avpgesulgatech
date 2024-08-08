@@ -1,7 +1,7 @@
-- Cebu based software engineer with 5 years of experience working on a fortune 500 firm.  
+- Cebu based software engineer with close to a decades years of experience.  
 
 Reach me at:  
-📫 avptechgesulga@gmail.com  
+📫 avpgesulgatech@gmail.com  
 📫 alf.v.p.gesulga@gmail.com  
 
 
